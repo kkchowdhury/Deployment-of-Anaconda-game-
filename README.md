@@ -28,5 +28,5 @@ sudo pip install awscli
 
 8) now we can open the Public IPv4 address of our instance.(replace https by http on the link) and pl,ay the game.
 
-
+HELPFUL LINKS :- https://youtu.be/531i-n5FMRY?si=E7v2t8t4jC-tGfnL
   
