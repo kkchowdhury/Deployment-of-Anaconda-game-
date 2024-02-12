@@ -26,7 +26,7 @@ sudo pip install awscli
 
 7) In my AWS EC2 instance , I will edit inbound rules and include http for port 80 from anywhere(0.0.0.0/0).We can do the same for ssh also.
 
-8) now we can open the Public IPv4 address of our instance.(replace https by http on the link) and pl,ay the game.
+8) now we can open the Public IPv4 address of our instance.(replace https by http on the link) and play the game.
 
 HELPFUL LINKS :- https://youtu.be/531i-n5FMRY?si=E7v2t8t4jC-tGfnL
   
